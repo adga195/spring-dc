@@ -1,0 +1,11 @@
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\config\CustomDispatcherConfig.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\config\CustomDispatcherServlet.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\dao\CustomerDAO.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\service\CustomerService.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\aspect\CRMLoggingAspect.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\aspect\pointcut\PCExpressions.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\entity\Customer.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\dao\CustomerDAOImpl.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\controller\CustomerController.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\log\SpringLogger.java
+C:\Users\adri-\Documents\GitHub\spring-dc\src\main\java\com\adga\springdc\service\CustomerServiceImpl.java
